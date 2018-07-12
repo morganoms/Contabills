@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/jan"
+            android:title="@string/janeiro" />
+        <item
+            android:id="@+id/fev"
+            android:title="@string/fevereiro" />
+        <item
+            android:id="@+id/mar"
+            android:title="@string/marco" />
+        <item
+            android:id="@+id/abr"
+            android:title="@string/abril" />
+        <item
+            android:id="@+id/mai"
+            android:title="@string/maio" />
+
+        <item
+            android:id="@+id/jun"
+            android:title="@string/junho" />
+        <item
+            android:id="@+id/jul"
+            android:title="@string/julho" />
+        <item
+            android:id="@+id/ago"
+            android:title="@string/agosto" />
+        <item
+            android:id="@+id/set"
+            android:title="@string/setembro" />
+        <item
+            android:id="@+id/out"
+            android:title="@string/outubro" />
+        <item
+            android:id="@+id/nov"
+            android:title="@string/novembro" />
+        <item
+            android:id="@+id/dez"
+            android:title="@string/dezembro" />
+
+    </group>
+
+</menu>

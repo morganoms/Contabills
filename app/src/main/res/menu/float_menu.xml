@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/creditar"
+        android:icon="@drawable/ic_adiciona"
+        android:title="Creditar Conta"
+        />
+    <item
+        android:id="@+id/debitar"
+        android:icon="@drawable/ic_debitar"
+        android:title="Debitar Conta"
+        />
+
+
+</menu>

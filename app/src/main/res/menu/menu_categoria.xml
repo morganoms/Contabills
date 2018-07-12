@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.morganoliveira.contabills.Views.ActivityCategoria">
+
+    <item
+        android:id="@+id/cadastroCateg"
+        android:icon="@drawable/ic_categoria"
+        android:title="@string/title_activity_categoria"
+        app:showAsAction="always"></item>
+
+</menu>

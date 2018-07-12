@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/credito"
+        android:id="@+id/nav_cred"
+        android:icon="@drawable/ic_add_circulado"/>
+
+    <item
+        android:title="@string/debito"
+        android:id="@+id/nav_deb"
+        android:icon="@drawable/ic_deb_circulado"/>
+
+
+
+
+
+
+</menu>

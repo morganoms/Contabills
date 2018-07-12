@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "397684840644",
+    "firebase_url": "https://contabills-edfdb.firebaseio.com",
+    "project_id": "contabills-edfdb",
+    "storage_bucket": "contabills-edfdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397684840644:android:de5906b46a839125",
+        "android_client_info": {
+          "package_name": "com.morganoliveira.contabills"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397684840644-qng13s4sai3j9hs37k0rocf2cfiu6k0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.morganoliveira.contabills",
+            "certificate_hash": "4776e5ab0f7a18fb08a68f4126fdfbae777edb5d"
+          }
+        },
+        {
+          "client_id": "397684840644-e7udrl1uon2q61kgpfq63iv5g9gc8l1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAme2Ep4FVTg1e2IeXHOddxM50_01XrxMg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397684840644-e7udrl1uon2q61kgpfq63iv5g9gc8l1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Contabills</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="logout">Sair</string>
+    <string name="title_activity_splash">CONTABILLS</string>
+    <string name="categaEmpty">Você não Possui Categorias Cadastradas!</string>
+    <string name="categ">Categoria</string>
+    <string name="contaEmpty">Você não Possui Contas Cadastradas!</string>
+
+
+    /*Login e Cadastro de Usuário*/
+    <string name="title_activity_login">Entrar</string>
+    <string name="email">Username</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="criarConta">Crie sua Conta</string>
+    <string name="SenhaIncompativel">Senhas Incompatíveis!</string>
+    <string name="nome">Nome</string>
+    <string name="sobrenome">Sobrenome</string>
+    <string name="confirmar">Confirme sua Senha</string>
+    <string name="usuario">Usuário: </string>
+    <string name="zero">0</string>
+    <string name="areceber">Á RECEBER</string>
+    <string name="apagar">Á PAGAR</string>
+    <string name="atrasadas">ATRASADAS</string>
+    <string name="Catrasadas">Contas Atrasadas</string>
+    <string name="Capagar">Contas á Pagar</string>
+
+    /*Activity Main*/
+    <string name="grafico">Gráficos</string>
+    <string name="movimentacoes">Histórico Mensal</string>
+    <string name="home">Início</string>
+    <string name="card">Cartão de Crédito</string>
+    <string name="configCont">Configurar Conta</string>
+
+    <string name="nomeUser">Usuário Logado</string>
+    <string name="emailUser">Email do Usuário</string>
+    <string name="usuarioInvalido">Usuário ou Senha Inválida</string>
+    <string name="creditar">Creditar</string>
+    <string name="debitar">Debitar</string>
+
+    <string name="descricao">Descrição</string>
+    <string name="simbolo">R$</string>
+    <string name="valorCred">Valor</string>
+    <string name="dataIni">Data de Pagamento</string>
+    <string name="dataFim">Data de Vencimento</string>
+    <string name="repeticao">Repetir?</string>
+    <string name="contaCred">Conta a ser Creditada</string>
+    <string name="contaDeb">Conta a ser Debitada</string>
+    <string name="preencher">Preencha os Campos Corretamente!</string>
+    <string name="selecioneUmaConta">Selecione uma Conta e uma Categoria</string>
+    <string name="anoNovo">Informe o Ano</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="loginSucesso">Login Efetuado com Sucesso!</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">Endereço de Email Inválido!</string>
+    <string name="error_invalid_password">Senha muito pequena!</string>
+    <string name="error_incorrect_password">Senha Incorreta!</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+    <string name="title_activity_teste">teste</string>
+    <string name="title_activity__login">Activity_Login</string>
+    <string name="title_activity_cadastro">Cadastre-se</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_creditar">Creditar</string>
+    <string name="title_activity_lista_conta">Histórico Mensal</string>
+    <string name="title_activity_cadastro_conta">Cadastrar Conta</string>
+    <string name="title_activity_categoria">Cadastrar Categoria</string>
+    <string name="title_activity_graficos">Gráficos</string>
+    <string name="credito">Crédito</string>
+    <string name="debito">Débito</string>
+    <string name="semDados">Não há dados para esse mês!</string>
+    <string name="ano">Ano:</string>
+
+
+    //Meses
+    <string name="janeiro">Janeiro</string>
+    <string name="fevereiro">Fevereiro</string>
+    <string name="marco">Março</string>
+    <string name="abril">Abril</string>
+    <string name="maio">Maio</string>
+    <string name="junho">Junho</string>
+    <string name="julho">Julho</string>
+    <string name="agosto">Agosto</string>
+    <string name="setembro">Setembro</string>
+    <string name="outubro">Outubro</string>
+    <string name="novembro">Novembro</string>
+    <string name="dezembro">Dezembro</string>
+    <string name="title_activity_contas">ContasA</string>
+    <string name="Creceber">Contas á Receber</string>
+    <string name="userExiste">Usuário já Cadastrado!</string>
+    <string name="desciVazio">Campo Descrição Vazio</string>
+    <string name="categCadastrada">Categoria já Cadastrada!</string>
+    <string name="ContaCadstrada">Conta já Cadastrada!</string>
+
+
+</resources>
